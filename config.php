@@ -2,12 +2,12 @@
 // Database Configuration
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'drillptn_utbk');
+define('DB_PASS', '@kaesquare123');
+define('DB_NAME', 'projec15_drillptn_utbk');
 
 // Site Configuration
 define('SITE_NAME', 'DrillPTN');
-define('SITE_URL', 'http://localhost/drillptn');
+define('SITE_URL', 'http://lemario.project2ks2.my.id/drillptn');
 define('UPLOAD_PATH', 'resources/img/');
 
 // Session Configuration
