@@ -1,0 +1,82 @@
+[
+    {
+        "question_type": "TPS",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Penalaran Umum",
+                "description": "Logika dan penalaran umum",
+                "icon": "brain",
+                "color": "#3B82F6"
+            },
+            {
+                "id": 2,
+                "name": "Pengetahuan Kuantitatif",
+                "description": "Matematika dan statistika",
+                "icon": "calculator",
+                "color": "#10B981"
+            },
+            {
+                "id": 3,
+                "name": "Pemahaman Bacaan dan Menulis",
+                "description": "Kemampuan membaca dan menulis",
+                "icon": "book-open",
+                "color": "#F59E0B"
+            },
+            {
+                "id": 4,
+                "name": "Pengetahuan dan Pemahaman Umum",
+                "description": "Pengetahuan umum",
+                "icon": "globe",
+                "color": "#8B5CF6"
+            },
+            {
+                "id": 5,
+                "name": "Penalaran Verbal",
+                "description": "Kemampuan verbal dan bahasa",
+                "icon": "message-circle",
+                "color": "#EF4444"
+            }
+        ]
+    },
+    {
+        "question_type": "Literasi",
+        "categories": [
+            {
+                "id": 6,
+                "name": "Literasi Bahasa Indonesia",
+                "description": "Kemampuan berbahasa Indonesia",
+                "icon": "type",
+                "color": "#DC2626"
+            },
+            {
+                "id": 7,
+                "name": "Literasi Bahasa Inggris",
+                "description": "Kemampuan berbahasa Inggris",
+                "icon": "globe",
+                "color": "#2563EB"
+            },
+            {
+                "id": 8,
+                "name": "Penalaran Matematika",
+                "description": "Penalaran dan logika matematika",
+                "icon": "calculator",
+                "color": "#059669"
+            },
+            {
+                "id": 9,
+                "name": "Literasi TIK",
+                "description": "Teknologi informasi dan komunikasi",
+                "icon": "monitor",
+                "color": "#7C3AED"
+            },
+            {
+                "id": 10,
+                "name": "Literasi Sains dan Alam",
+                "description": "Sains dan pengetahuan alam",
+                "icon": "flask",
+                "color": "#EA580C"
+            }
+        ]
+    }
+]
